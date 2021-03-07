@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "description": "Delicioso prato",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Delicia ",
+      "price": "15.58",
+      "available": true,
+      "id": 4
     }
   ]
 }
